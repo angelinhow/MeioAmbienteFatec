@@ -57,3 +57,7 @@ strong {
     color: #22a85a;
     font-weight: bold;
 }
+
+strong:hover{
+    color: #125a30
+}
