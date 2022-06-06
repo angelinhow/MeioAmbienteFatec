@@ -34,3 +34,7 @@
     margin-bottom: 1.25rem;
     margin-left: .7rem;
 }
+
+.cabecalho__link:hover{
+    color: #22a85a;
+}
