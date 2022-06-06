@@ -8,8 +8,13 @@
     
     background-color: var(--bg-chamada-mobile);
 
+
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
+}
+
+.chamada-background {
+    background-image: url(/img/background.jpg);
 }
 
 .chamada__titulo {
