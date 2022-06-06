@@ -43,3 +43,9 @@ body {
     border: 1px solid var(--branco);
     border-radius: 5px;
 }
+
+.botao:hover{
+    width:80%;
+    transition-property: all;
+    transition-duration: 0.5s;
+}
