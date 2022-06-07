@@ -50,7 +50,7 @@
 
 .destaques__botao:hover{
     color: white;
-    /* background-color: #22a85a; */
+    background-color: #22a85a;
     background-image: url(/img/background-test.jpg);
     transform: scale(1.06);
     transition: 0.5s;
