@@ -50,7 +50,7 @@ body {
     transition-duration: 0.5s;
 }
 
-body {
+/* body {
     animation: up 1.5s 1;
     animation-delay: 0.1s;
     animation-fill-mode: forwards;
@@ -65,4 +65,4 @@ body {
         transform: translateY(0px);
         opacity: 1;
         }
-}
+} */
