@@ -110,3 +110,15 @@ body {
     }
   }
   
+::-webkit-scrollbar {
+  width:10px;
+  height: 10px;
+  }
+   
+  ::-webkit-scrollbar-track {
+  background: #4F4C4C;
+  }
+   
+  ::-webkit-scrollbar-thumb {
+  background: #22a85a;
+  }
