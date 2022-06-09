@@ -6,7 +6,8 @@
     color: var(--branco);
     text-align: center;
     
-    background-color: var(--bg-chamada-mobile);
+    /* background-color: var(--bg-chamada-mobile); */
+    background-color: #142e2b;
 
 
     padding-top: 12.25rem;
